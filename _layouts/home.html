@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500&family=Mitr:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Sarabun', sans-serif;
+      min-height: 100vh;
+      background: #fefefe;
+      color: #3a3a3a;
+    }
+
+    /* พื้นหลัง pastel rainbow ลายทาง */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        135deg,
+        rgba(255,182,193,0.15) 0px,
+        rgba(255,182,193,0.15) 40px,
+        rgba(255,218,185,0.15) 40px,
+        rgba(255,218,185,0.15) 80px,
+        rgba(255,255,186,0.15) 80px,
+        rgba(255,255,186,0.15) 120px,
+        rgba(186,255,201,0.15) 120px,
+        rgba(186,255,201,0.15) 160px,...
