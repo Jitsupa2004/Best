@@ -1,9 +1,7 @@
 # My Profile
 
 ## ประวัติส่วนตัว
-<p align="center">
-  <img src="images/profile.png" width="200" style="border-radius:50%">
-</p>
+![โปรไฟล์](images/profile.jpg)
 ชื่อ : จิตรสุภา ไกรตรวจพล
 กำลังศึกษาอยู่ระดับปริญญาตรี 
 สาขาเทคโนโลยีสารสนเทศ
