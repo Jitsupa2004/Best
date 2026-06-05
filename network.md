@@ -28,8 +28,8 @@ Network หรือเครือข่ายคอมพิวเตอร์
 
 ## References
 
-1. https://www.britannica.com/technology/computer-network
-2. https://www.ibm.com/think/topics/computer-network
-3. https://learn.microsoft.com/en-us/training/modules/network-fundamentals/
+1. [Britannica - Computer Network](https://www.britannica.com/technology/computer-network)
+2. [IBM - Computer Network](https://www.ibm.com/think/topics/computer-network)
+3. [Microsoft Learn - Network Fundamentals](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/)
 4. ChatGPT
 5. Google Gemini
