@@ -1,7 +1,37 @@
-# 🚀 IT Keywords Project
+---
+layout: home
+title: จิตรสุภา ไกรตรวจพล
+permalink: /
+---
 
-## 📚 My Topics
+# สวัสดี ฉันชื่อ นางสาวจิตรสุภา ไกรตรวจพล 🌈
+- อายุ 22 ปี
+- เกิดวันที่ 20 กุมภาพันธ์ 2547
+![โปรไฟล์](images/profile.jpg)
 
-- 🌐 [Database](https://jitsupa2004.github.io/database)
-- 🔗 [Network](https://jitsupa2004.github.io/network)
-- 💻 [Programming](https://jitsupa2004.github.io/programming)
+---
+## สถานที่ทำงาน
+- บริษัทโทรคมนามคมแห่งชาติ จำกัด
+- ตำแหน่ง Dispatcher(1177)&ช่างเทคนิค
+## 🍓 ประวัติส่วนตัว
+- กำลังศึกษาอยู่ระดับปริญญาตรี
+- สาขาเทคโนโลยีสารสนเทศ
+- สถาบันอาชีวะกลาง 5 วิทยาลัยเทคนิคสมุทรสาคร
+
+---
+
+## 🍋 ความสนใจ
+
+- ☕ อยากทำธุรกิจคาเฟ่
+---
+
+## 🍇 งานอดิเรก
+
+- 🎵 ฟังเพลง
+- 🎬 ดูหนัง
+- ✈️ ท่องเที่ยว
+
+---
+
+
+- GitHub: [github.com/Jitsupa2004](https://github.com/Jitsupa2004)
